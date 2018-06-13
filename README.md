@@ -16,4 +16,3 @@ para que tenga una mejor funcionalidad.
  * declaramos una variable vacia que donde se va a guaradar nuestro codigo cifrado ,para que recorra la palabra vamos a utilizar un for, y dentro de el declarar variable y poner la formula de cifrado cesar.
 
  * Hacer condiciones con "if" y "else"
- 

@@ -1,11 +1,4 @@
-describe('cipher', () => {
-
-  it('debería ser un objeto', () => {
-    assert.equal(typeof cipher, 'object');
-  });
-
-  describe('cipher.encode', () => {
-
+alert ("Hola Como estas");
     it('debería ser una función', () => {
       assert.equal(typeof cipher.encode, 'function');
     });
